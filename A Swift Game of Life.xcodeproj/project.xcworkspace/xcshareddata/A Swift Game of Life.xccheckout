@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87363007-72B7-4919-8CE8-34AE09AC1FB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>A Swift Game of Life</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0143A0AB69962E8F72C5731BA6DC517ED6CB821</key>
+		<string>github.com:CodeClubLux/py-club.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Swift/A Swift Game of Life/A Swift Game of Life.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0143A0AB69962E8F72C5731BA6DC517ED6CB821</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:CodeClubLux/py-club.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0143A0AB69962E8F72C5731BA6DC517ED6CB821</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0143A0AB69962E8F72C5731BA6DC517ED6CB821</string>
+			<key>IDESourceControlWCCName</key>
+			<string>py-club</string>
+		</dict>
+	</array>
+</dict>
+</plist>
